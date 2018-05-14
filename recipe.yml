@@ -1,9 +1,9 @@
-name : Install Java 7 on Ubunutu
+name : Install Oracle Java 7 on Ubunutu
 desc : The recipe installs oracle jdk 7 on Ubunutu  
 logo_url: https://raw.githubusercontent.com/tanmally/install-java-7/master/logo/Java7.png
 tags:
     - java 7
-    - oracle
+    - oracle jdk
     - latest
     - Ubunutu
  
